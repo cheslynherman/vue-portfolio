@@ -8,10 +8,10 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <router-link to="/" class="navButtons">Home</router-link>
-        <router-link to="" class="navButtons">Projects & Testimonials</router-link>
-        <router-link to="" class="navButtons">About</router-link>
-        <router-link to="" class="navButtons">Resume</router-link>
-        <router-link to="" class="navButtons">Contact</router-link>
+        <router-link to="../views/ProjectsView.vue" class="navButtons">Projects & Testimonials</router-link>
+        <router-link to="../views/AboutView.vue" class="navButtons">About</router-link>
+        <router-link to="../views/ResumeView.vue" class="navButtons">Resume</router-link>
+        <router-link to="../views/ContactView.vue" class="navButtons">Contact</router-link>
       </div>
     </div>
   </div>
