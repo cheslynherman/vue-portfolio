@@ -23,8 +23,8 @@
         background-color: #3C2A21 !important;
     }
     .navImage {
-        height: 60px;
-        width: 60px;
+        height: 50px;
+        width: 50px;
     }
     .navbar-nav {
         margin-left: auto;
@@ -34,7 +34,7 @@
         color: #3C2A21;
         border: 2px solid #EDE4E0;
         background: #EDE4E0;
-        padding: 10px;
+        padding: 3px 5px 3px 5px;
         border-radius: 15px;
     }
     a {
